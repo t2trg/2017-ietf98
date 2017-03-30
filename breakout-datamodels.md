@@ -31,4 +31,4 @@ Please put your name here (e.g., pull request or mail to the [list](https://www.
 
 * Matthias Kovatsch
   * Jointly with [W3C WoT](https://www.w3.org/WoT/WG/)
-* 
+* Jaime Jiménez
