@@ -29,5 +29,6 @@
 
 Please put your name here (e.g., pull request or mail to the [list](https://www.irtf.org/mailman/listinfo/t2trg)
 
-* Matthias Kovatsch (jointly with W3C WoT)
+* Matthias Kovatsch
+  * Jointly with [W3C WoT](https://www.w3.org/WoT/WG/)
 * 
